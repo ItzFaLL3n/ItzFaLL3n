@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=74F790&random=false&width=435&lines=Hey+it's+FaLL3n)](https://git.io/typing-svg)
 -  I’m interested in ...Backend,Linux,Docker...
 - Just a Dude With a Computer...
-- Familiar With Networking
-
 
 <!---
 FaLL3nWhizzy/FaLL3nWhizzy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
