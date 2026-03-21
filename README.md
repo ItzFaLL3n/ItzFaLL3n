@@ -143,7 +143,7 @@ fun_fact: "I don't debug code. I have deep conversations with it until it confes
 <br/>
 
 <!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FaLL3nWhizzy&theme=tokyonight&hide_border=true&background=0D1117&ring=BD93F9&fire=FF6B6B&currStreakLabel=BD93F9" alt="FaLL3n's Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ItzFaLL3n&theme=tokyonight&hide_border=true&background=0D1117&ring=BD93F9&fire=FF6B6B&currStreakLabel=BD93F9" alt="FaLL3n's Streak"/>
 
 <br/>
 
@@ -160,9 +160,9 @@ fun_fact: "I don't debug code. I have deep conversations with it until it confes
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FaLL3nWhizzy/FaLL3nWhizzy/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FaLL3nWhizzy/FaLL3nWhizzy/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/FaLL3nWhizzy/FaLL3nWhizzy/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ItzFaLL3n/ItzFaLL3n/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ItzFaLL3n/ItzFaLL3n/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ItzFaLL3n/ItzFaLL3n/output/github-snake-dark.svg" />
 </picture>
 
 </div>
