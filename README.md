@@ -6,7 +6,7 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-FaLL3nWhizzy-000?style=flat-square&logo=github)](https://github.com/ItzFaLL3n)
+[![GitHub](https://img.shields.io/badge/GitHub-ItzFaLL3n-000?style=flat-square&logo=github)](https://github.com/ItzFaLL3n)
 [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/E834WAy32g)
 ![Views](https://komarev.com/ghpvc/?username=FaLL3nWhizzy&style=flat-square&color=grey&label=views)
 
