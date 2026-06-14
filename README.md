@@ -10,7 +10,7 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/github-FaLL3nWhizzy-e74c3c?style=flat-square&logo=github&logoColor=white&labelColor=0d0505)](https://github.com/FaLL3nWhizzy)
+[![GitHub](https://img.shields.io/badge/github-ItzFaLL3n-e74c3c?style=flat-square&logo=github&logoColor=white&labelColor=0d0505)](https://github.com/ItzFaLL3n)
 [![Discord](https://img.shields.io/badge/discord-join-e74c3c?style=flat-square&logo=discord&logoColor=white&labelColor=0d0505)](https://discord.gg/E834WAy32g)
 ![Views](https://komarev.com/ghpvc/?username=FaLL3nWhizzy&style=flat-square&color=e74c3c&labelColor=0d0505&label=views)
 
