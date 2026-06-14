@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a0a&height=3&section=header"/>
-
 ```
 ~/github/ItzFaLL3n $ whoami
 ```
@@ -12,9 +10,9 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/github-FaLL3nWhizzy-e8832a?style=flat-square&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/FaLL3nWhizzy)
-[![Discord](https://img.shields.io/badge/discord-join-e8832a?style=flat-square&logo=discord&logoColor=white&labelColor=0d0d0d)](https://discord.gg/E834WAy32g)
-![Views](https://komarev.com/ghpvc/?username=FaLL3nWhizzy&style=flat-square&color=e8832a&labelColor=0d0d0d&label=views)
+[![GitHub](https://img.shields.io/badge/github-FaLL3nWhizzy-e74c3c?style=flat-square&logo=github&logoColor=white&labelColor=0d0505)](https://github.com/FaLL3nWhizzy)
+[![Discord](https://img.shields.io/badge/discord-join-e74c3c?style=flat-square&logo=discord&logoColor=white&labelColor=0d0505)](https://discord.gg/E834WAy32g)
+![Views](https://komarev.com/ghpvc/?username=FaLL3nWhizzy&style=flat-square&color=e74c3c&labelColor=0d0505&label=views)
 
 </div>
 
@@ -97,7 +95,7 @@ fun_fact:  "I don't patch vulnerabilities. I have long talks with them."
 <table>
 <tr>
 <td align="center" width="110">
-<img src="https://img.shields.io/badge/Claude_Code-e8832a?style=for-the-badge&logo=anthropic&logoColor=white" height="24" alt="Claude Code"/><br/>
+<img src="https://img.shields.io/badge/Claude_Code-c0392b?style=for-the-badge&logo=anthropic&logoColor=white" height="24" alt="Claude Code"/><br/>
 <sub>Agentic coding</sub>
 </td>
 <td align="center" width="110">
@@ -141,13 +139,13 @@ fun_fact:  "I don't patch vulnerabilities. I have long talks with them."
 
 <div align="center">
 
-<img src="https://github-readme-stats-fall3nwhizzy.vercel.app/api?username=ItzFaLL3n&count_private=true&show_icons=true&hide_border=true&theme=github_dark&title_color=e8832a&icon_color=e8832a&text_color=8b8070&bg_color=0d0d0d&ring_color=e8832a&include_all_commits=true&card_width=440" height="165" alt="GitHub Stats"/>
+<img src="https://github-readme-stats-fall3nwhizzy.vercel.app/api?username=ItzFaLL3n&count_private=true&show_icons=true&hide_border=true&theme=github_dark&title_color=e74c3c&icon_color=e74c3c&text_color=7a5050&bg_color=080808&ring_color=c0392b&include_all_commits=true&card_width=440" height="165" alt="GitHub Stats"/>
 
-<img src="https://github-readme-stats-fall3nwhizzy.vercel.app/api/top-langs/?username=ItzFaLL3n&layout=compact&hide_border=true&theme=github_dark&title_color=e8832a&text_color=8b8070&bg_color=0d0d0d&langs_count=6&card_width=440" height="165" alt="Top Languages"/>
+<img src="https://github-readme-stats-fall3nwhizzy.vercel.app/api/top-langs/?username=ItzFaLL3n&layout=compact&hide_border=true&theme=github_dark&title_color=e74c3c&text_color=7a5050&bg_color=080808&langs_count=6&card_width=440" height="165" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ItzFaLL3n&hide_border=true&background=0d0d0d&stroke=1e1e1e&ring=e8832a&fire=e8832a&currStreakLabel=e8832a&sideLabels=5a5040&dates=3a3020&currStreakNum=f0e8d8&sideNums=c8b898" height="130" alt="Streak Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ItzFaLL3n&hide_border=true&background=080808&stroke=1e0a0a&ring=c0392b&fire=e74c3c&currStreakLabel=e74c3c&sideLabels=4a3030&dates=2e1818&currStreakNum=f0e0e0&sideNums=c8a8a8" height="130" alt="Streak Stats"/>
 
 </div>
 
@@ -159,7 +157,7 @@ fun_fact:  "I don't patch vulnerabilities. I have long talks with them."
 
 <br/>
 
-[![github](https://img.shields.io/badge/github-follow-e8832a?style=flat-square&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/FaLL3nWhizzy)
-[![discord](https://img.shields.io/badge/discord-join-e8832a?style=flat-square&logo=discord&logoColor=white&labelColor=0d0d0d)](https://discord.gg/E834WAy32g)
+[![github](https://img.shields.io/badge/github-follow-e74c3c?style=flat-square&logo=github&logoColor=white&labelColor=0d0505)](https://github.com/FaLL3nWhizzy)
+[![discord](https://img.shields.io/badge/discord-join-e74c3c?style=flat-square&logo=discord&logoColor=white&labelColor=0d0505)](https://discord.gg/E834WAy32g)
 
 </div>
