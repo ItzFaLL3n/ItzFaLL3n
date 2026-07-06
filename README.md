@@ -88,7 +88,7 @@ flowchart LR
 Same pattern, different faces: CI/CD gatekeeping, log-anomaly triage, or a WhatsApp/Slack bot that only escalates when the model isn't confident.
 
 ---
-
+```
 ### `04` — metrics
 
 <div align="center">
@@ -149,6 +149,7 @@ Then embed it once the `output` branch exists:
 </details>
 
 ---
+```
 
 ### `05` — connect
 
