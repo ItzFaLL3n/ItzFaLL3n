@@ -88,88 +88,8 @@ flowchart LR
 Same pattern, different faces: CI/CD gatekeeping, log-anomaly triage, or a WhatsApp/Slack bot that only escalates when the model isn't confident.
 
 ---
-```
-### `04` — metrics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ItzFaLL3n&show_icons=true&hide_border=true&title_color=e74c3c&icon_color=e74c3c&text_color=ffffff&bg_color=0d0505" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzFaLL3n&layout=compact&hide_border=true&title_color=e74c3c&text_color=ffffff&bg_color=0d0505" width="30%" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ItzFaLL3n&hide_border=true&background=0D0505&ring=E74C3C&fire=E74C3C&currStreakLabel=E74C3C&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="60%" />
-
-</div>
-
-<sub>If your GitHub handle isn't exactly `ItzFaLL3n`, swap it into the three URLs above.</sub>
-
-<details>
-<summary><strong>Advanced — contribution snake animation</strong></summary>
-<br/>
-
-GitHub Actions can generate an animated "snake" that eats through your contribution graph. Add this workflow at `.github/workflows/snake.yml`:
-
-```yaml
-name: generate snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  push:
-    branches:
-      - main
-  workflow_dispatch: {}
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-Then embed it once the `output` branch exists:
-
-
-
-
-</details>
-
----
-```
-### `05` — connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/github-ItzFaLL3n-e74c3c?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0505)](https://github.com/ItzFaLL3n)
-[![Discord](https://img.shields.io/badge/discord-join_server-e74c3c?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d0505)](https://discord.gg/E834WAy32g)
-
-<sub>Open to conversations about container security, backend architecture, and AI-driven ops.</sub>
-
-</div>
-
-<div align="center">
-<sub>© FaLL3n — patched systems, unpatched curiosity.</sub>
-</div></tr>
-</table>
-
-</div>
-
----
-
-### `03` — tools & infrastructure
+### `04` — tools & infrastructure
 
 <div align="center">
 
@@ -191,19 +111,44 @@ Then embed it once the `output` branch exists:
 
 ---
 
-### `04` — stack
+### `05` — stack
 
-| Cloud & Security | Backend & DevOps |
-|---|---|
-| AWS — IAM, GuardDuty, CloudTrail | Node.js · Prisma · REST APIs |
-| Container Security & Hardening | Docker Compose & K8s Manifests |
-| Secrets Management | Helm Charts · Terraform IaC |
-| Threat Modeling | CI/CD Pipelines |
-| Network Policy & Zero Trust | AWS ECR / ECS |
+<div align="center">
+
+**☁️ Cloud & Security**
+<br/>
+<img src="https://img.shields.io/badge/AWS_IAM-e74c3c?style=for-the-badge&logo=amazoniam&logoColor=white&labelColor=0d0505" />
+<img src="https://img.shields.io/badge/GuardDuty-e74c3c?style=for-the-badge&logo=amazon&logoColor=white&labelColor=0d0505" />
+<img src="https://img.shields.io/badge/CloudTrail-e74c3c?style=for-the-badge&logo=amazon&logoColor=white&labelColor=0d0505" />
+<br/>
+<img src="https://img.shields.io/badge/Container_Hardening-e74c3c?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d0505" />
+<img src="https://img.shields.io/badge/Secrets_Management-e74c3c?style=for-the-badge&logo=vault&logoColor=white&labelColor=0d0505" />
+<br/>
+<img src="https://img.shields.io/badge/Threat_Modeling-e74c3c?style=for-the-badge&labelColor=0d0505" />
+<img src="https://img.shields.io/badge/Network_Policy-e74c3c?style=for-the-badge&labelColor=0d0505" />
+<img src="https://img.shields.io/badge/Zero_Trust-e74c3c?style=for-the-badge&labelColor=0d0505" />
+
+<br/><br/>
+
+**⚙️ Backend & DevOps**
+<br/>
+<img src="https://img.shields.io/badge/Node.js-e74c3c?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0d0505" />
+<img src="https://img.shields.io/badge/Prisma-e74c3c?style=for-the-badge&logo=prisma&logoColor=white&labelColor=0d0505" />
+<img src="https://img.shields.io/badge/REST_APIs-e74c3c?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0d0505" />
+<br/>
+<img src="https://img.shields.io/badge/Docker_Compose-e74c3c?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d0505" />
+<img src="https://img.shields.io/badge/K8s_Manifests-e74c3c?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0d0505" />
+<img src="https://img.shields.io/badge/Helm_Charts-e74c3c?style=for-the-badge&logo=helm&logoColor=white&labelColor=0d0505" />
+<br/>
+<img src="https://img.shields.io/badge/Terraform_IaC-e74c3c?style=for-the-badge&logo=terraform&logoColor=white&labelColor=0d0505" />
+<img src="https://img.shields.io/badge/CI%2FCD_Pipelines-e74c3c?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0d0505" />
+<img src="https://img.shields.io/badge/AWS_ECR%2FECS-e74c3c?style=for-the-badge&logo=amazonecs&logoColor=white&labelColor=0d0505" />
+
+</div>
 
 ---
 
-### `05` — AI-assisted development
+### `06` — AI-assisted development
 
 <div align="center">
 
@@ -250,7 +195,31 @@ Then embed it once the `output` branch exists:
 
 ---
 
-### `06` — github stats
+### `07` — connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/github-ItzFaLL3n-e74c3c?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0505)](https://github.com/ItzFaLL3n)
+[![Discord](https://img.shields.io/badge/discord-join_server-e74c3c?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d0505)](https://discord.gg/E834WAy32g)
+
+<sub>Open to conversations about container security, backend architecture, and AI-driven ops.</sub>
+
+<br/><br/>
+
+[![github](https://img.shields.io/badge/github-follow-e74c3c?style=flat-square&logo=github&logoColor=white&labelColor=0d0505)](https://github.com/FaLL3nWhizzy)
+[![discord](https://img.shields.io/badge/discord-join-e74c3c?style=flat-square&logo=discord&logoColor=white&labelColor=0d0505)](https://discord.gg/E834WAy32g)
+
+<br/>
+
+<sub>© FaLL3n — patched systems, unpatched curiosity.</sub>
+<br/>
+<sub>built with claude code & caffeine · secured before shipped</sub>
+
+</div>
+
+---
+
+### `08` — github stats
 
 <div align="center">
 
@@ -262,20 +231,8 @@ Then embed it once the `output` branch exists:
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItzFaLL3n&hide_border=true&background=080808&stroke=1e0a0a&ring=c0392b&fire=e74c3c&currStreakLabel=e74c3c&sideLabels=4a3030&dates=2e1818&currStreakNum=f0e0e0&sideNums=c8a8a8" height="130" alt="Streak Stats"/>
 
+<br/><br/>
 
-</div>
-
-![snake](https://raw.githubusercontent.com/ItzFaLL3n/ItzFaLL3n/output/snake-dark.svg)
-
----
-
-<div align="center">
-
-<sub>built with claude code & caffeine · secured before shipped</sub>
-
-<br/>
-
-[![github](https://img.shields.io/badge/github-follow-e74c3c?style=flat-square&logo=github&logoColor=white&labelColor=0d0505)](https://github.com/FaLL3nWhizzy)
-[![discord](https://img.shields.io/badge/discord-join-e74c3c?style=flat-square&logo=discord&logoColor=white&labelColor=0d0505)](https://discord.gg/E834WAy32g)
+<img src="https://raw.githubusercontent.com/ItzFaLL3n/ItzFaLL3n/output/snake-dark.svg" alt="snake"/>
 
 </div>
