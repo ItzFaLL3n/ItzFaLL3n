@@ -195,24 +195,9 @@ Same pattern, different faces: CI/CD gatekeeping, log-anomaly triage, or a Whats
 
 ---
 
-### `07` — connect
 
-<div align="center">
 
-[![GitHub](https://img.shields.io/badge/github-ItzFaLL3n-e74c3c?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0505)](https://github.com/ItzFaLL3n)
-[![Discord](https://img.shields.io/badge/discord-join_server-e74c3c?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d0505)](https://discord.gg/E834WAy32g)
-
-<sub>Open to conversations about container security, backend architecture, and AI-driven ops.</sub>
-
-<sub>© FaLL3n — patched systems, unpatched curiosity.</sub>
-<br/>
-<sub>built with claude code & caffeine · secured before shipped</sub>
-
-</div>
-
----
-
-### `08` — github stats
+### `07` — github stats
 
 <div align="center">
 
@@ -229,3 +214,20 @@ Same pattern, different faces: CI/CD gatekeeping, log-anomaly triage, or a Whats
 <img src="https://raw.githubusercontent.com/ItzFaLL3n/ItzFaLL3n/output/snake-dark.svg" alt="snake"/>
 
 </div>
+
+### `08` — connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/github-ItzFaLL3n-e74c3c?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0505)](https://github.com/ItzFaLL3n)
+[![Discord](https://img.shields.io/badge/discord-join_server-e74c3c?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d0505)](https://discord.gg/E834WAy32g)
+
+<sub>Open to conversations about container security, backend architecture, and AI-driven ops.</sub>
+
+<sub>© FaLL3n — patched systems, unpatched curiosity.</sub>
+<br/>
+<sub>built with claude code & caffeine · secured before shipped</sub>
+
+</div>
+
+---
