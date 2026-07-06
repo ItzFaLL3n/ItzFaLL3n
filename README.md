@@ -206,9 +206,6 @@ Same pattern, different faces: CI/CD gatekeeping, log-anomaly triage, or a Whats
 
 <br/><br/>
 
-[![github](https://img.shields.io/badge/github-follow-e74c3c?style=flat-square&logo=github&logoColor=white&labelColor=0d0505)](https://github.com/FaLL3nWhizzy)
-[![discord](https://img.shields.io/badge/discord-join-e74c3c?style=flat-square&logo=discord&logoColor=white&labelColor=0d0505)](https://discord.gg/E834WAy32g)
-
 <br/>
 
 <sub>© FaLL3n — patched systems, unpatched curiosity.</sub>
