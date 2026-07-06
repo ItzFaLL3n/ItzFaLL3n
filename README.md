@@ -144,7 +144,7 @@ jobs:
 Then embed it once the `output` branch exists:
 
 
-![snake](https://raw.githubusercontent.com/ItzFaLL3n/ItzFaLL3n/output/snake-dark.svg)
+
 
 </details>
 
@@ -262,6 +262,7 @@ Then embed it once the `output` branch exists:
 <br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItzFaLL3n&hide_border=true&background=080808&stroke=1e0a0a&ring=c0392b&fire=e74c3c&currStreakLabel=e74c3c&sideLabels=4a3030&dates=2e1818&currStreakNum=f0e0e0&sideNums=c8a8a8" height="130" alt="Streak Stats"/>
+![snake](https://raw.githubusercontent.com/ItzFaLL3n/ItzFaLL3n/output/snake-dark.svg)
 
 </div>
 
