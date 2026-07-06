@@ -143,9 +143,8 @@ jobs:
 
 Then embed it once the `output` branch exists:
 
-```md
+
 ![snake](https://raw.githubusercontent.com/ItzFaLL3n/ItzFaLL3n/output/snake-dark.svg)
-```
 
 </details>
 
