@@ -204,10 +204,6 @@ Same pattern, different faces: CI/CD gatekeeping, log-anomaly triage, or a Whats
 
 <sub>Open to conversations about container security, backend architecture, and AI-driven ops.</sub>
 
-<br/><br/>
-
-<br/>
-
 <sub>© FaLL3n — patched systems, unpatched curiosity.</sub>
 <br/>
 <sub>built with claude code & caffeine · secured before shipped</sub>
