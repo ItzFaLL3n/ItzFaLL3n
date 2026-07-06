@@ -89,88 +89,7 @@ Same pattern, different faces: CI/CD gatekeeping, log-anomaly triage, or a Whats
 
 ---
 
-### `04` — metrics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ItzFaLL3n&show_icons=true&hide_border=true&title_color=e74c3c&icon_color=e74c3c&text_color=ffffff&bg_color=0d0505" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzFaLL3n&layout=compact&hide_border=true&title_color=e74c3c&text_color=ffffff&bg_color=0d0505" width="30%" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ItzFaLL3n&hide_border=true&background=0D0505&ring=E74C3C&fire=E74C3C&currStreakLabel=E74C3C&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="60%" />
-
-</div>
-
-<sub>If your GitHub handle isn't exactly `ItzFaLL3n`, swap it into the three URLs above.</sub>
-
-<details>
-<summary><strong>Advanced — contribution snake animation</strong></summary>
-<br/>
-
-GitHub Actions can generate an animated "snake" that eats through your contribution graph. Add this workflow at `.github/workflows/snake.yml`:
-
-```yaml
-name: generate snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  push:
-    branches:
-      - main
-  workflow_dispatch: {}
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then embed it once the `output` branch exists:
-
-
-
-
-</details>
-
----
-
-### `05` — connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/github-ItzFaLL3n-e74c3c?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0505)](https://github.com/ItzFaLL3n)
-[![Discord](https://img.shields.io/badge/discord-join_server-e74c3c?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d0505)](https://discord.gg/E834WAy32g)
-
-<sub>Open to conversations about container security, backend architecture, and AI-driven ops.</sub>
-
-</div>
-
-<div align="center">
-<sub>© FaLL3n — patched systems, unpatched curiosity.</sub>
-</div></tr>
-</table>
-
-</div>
-
----
-
-### `03` — tools & infrastructure
+### `04` — tools & infrastructure
 
 <div align="center">
 
@@ -192,19 +111,45 @@ Then embed it once the `output` branch exists:
 
 ---
 
-### `04` — stack
+### `05` — stack
 
-| Cloud & Security | Backend & DevOps |
-|---|---|
-| AWS — IAM, GuardDuty, CloudTrail | Node.js · Prisma · REST APIs |
-| Container Security & Hardening | Docker Compose & K8s Manifests |
-| Secrets Management | Helm Charts · Terraform IaC |
-| Threat Modeling | CI/CD Pipelines |
-| Network Policy & Zero Trust | AWS ECR / ECS |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Cloud & Security**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-1a1a2e?style=flat-square)
+![GuardDuty](https://img.shields.io/badge/GuardDuty-1a1a2e?style=flat-square)
+![CloudTrail](https://img.shields.io/badge/CloudTrail-1a1a2e?style=flat-square)
+![Container Hardening](https://img.shields.io/badge/Container_Hardening-c0392b?style=flat-square)
+![Secrets Management](https://img.shields.io/badge/Secrets_Management-c0392b?style=flat-square)
+![Threat Modeling](https://img.shields.io/badge/Threat_Modeling-c0392b?style=flat-square)
+![Zero Trust](https://img.shields.io/badge/Zero_Trust_Networking-c0392b?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+**Backend & DevOps**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-1a1a2e?style=flat-square)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes Manifests](https://img.shields.io/badge/K8s_Manifests-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![ECR/ECS](https://img.shields.io/badge/ECR_·_ECS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### `05` — AI-assisted development
+### `06` — AI-assisted development
 
 <div align="center">
 
@@ -251,30 +196,13 @@ Then embed it once the `output` branch exists:
 
 ---
 
-### `06` — github stats
-
-<div align="center">
-
-<img src="https://github-readme-stats-fall3nwhizzy.vercel.app/api?username=ItzFaLL3n&count_private=true&show_icons=true&hide_border=true&theme=github_dark&title_color=e74c3c&icon_color=e74c3c&text_color=7a5050&bg_color=080808&ring_color=c0392b&include_all_commits=true&card_width=440" height="165" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats-fall3nwhizzy.vercel.app/api/top-langs/?username=ItzFaLL3n&layout=compact&hide_border=true&theme=github_dark&title_color=e74c3c&text_color=7a5050&bg_color=080808&langs_count=6&card_width=440" height="165" alt="Top Languages"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ItzFaLL3n&hide_border=true&background=080808&stroke=1e0a0a&ring=c0392b&fire=e74c3c&currStreakLabel=e74c3c&sideLabels=4a3030&dates=2e1818&currStreakNum=f0e0e0&sideNums=c8a8a8" height="130" alt="Streak Stats"/>
-
-
-</div>
-
-![snake](https://raw.githubusercontent.com/ItzFaLL3n/ItzFaLL3n/output/snake-dark.svg)
-
----
+### `07` — connect
 
 <div align="center">
 
 <sub>built with claude code & caffeine · secured before shipped</sub>
 
-<br/>
+<br/><br/>
 
 [![github](https://img.shields.io/badge/github-follow-e74c3c?style=flat-square&logo=github&logoColor=white&labelColor=0d0505)](https://github.com/FaLL3nWhizzy)
 [![discord](https://img.shields.io/badge/discord-join-e74c3c?style=flat-square&logo=discord&logoColor=white&labelColor=0d0505)](https://discord.gg/E834WAy32g)
