@@ -139,7 +139,6 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
 
 Then embed it once the `output` branch exists:
 
@@ -150,7 +149,6 @@ Then embed it once the `output` branch exists:
 
 ---
 ```
-
 ### `05` — connect
 
 <div align="center">
