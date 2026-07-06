@@ -115,34 +115,34 @@ Same pattern, different faces: CI/CD gatekeeping, log-anomaly triage, or a Whats
 
 <div align="center">
 
-**☁️ Cloud & Security**
+**Cloud & Security**
 <br/>
-<img src="https://img.shields.io/badge/AWS_IAM-e74c3c?style=for-the-badge&logo=amazoniam&logoColor=white&labelColor=0d0505" />
-<img src="https://img.shields.io/badge/GuardDuty-e74c3c?style=for-the-badge&logo=amazon&logoColor=white&labelColor=0d0505" />
-<img src="https://img.shields.io/badge/CloudTrail-e74c3c?style=for-the-badge&logo=amazon&logoColor=white&labelColor=0d0505" />
+<img src="https://img.shields.io/badge/AWS_IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/GuardDuty-D08206?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/CloudTrail-B36F00?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <br/>
-<img src="https://img.shields.io/badge/Container_Hardening-e74c3c?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d0505" />
-<img src="https://img.shields.io/badge/Secrets_Management-e74c3c?style=for-the-badge&logo=vault&logoColor=white&labelColor=0d0505" />
+<img src="https://img.shields.io/badge/Container_Hardening-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Secrets_Management-FFEC6E?style=for-the-badge&logo=vault&logoColor=000000" />
 <br/>
-<img src="https://img.shields.io/badge/Threat_Modeling-e74c3c?style=for-the-badge&labelColor=0d0505" />
-<img src="https://img.shields.io/badge/Network_Policy-e74c3c?style=for-the-badge&labelColor=0d0505" />
-<img src="https://img.shields.io/badge/Zero_Trust-e74c3c?style=for-the-badge&labelColor=0d0505" />
+<img src="https://img.shields.io/badge/Threat_Modeling-e74c3c?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Network_Policy-c0392b?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Zero_Trust-922b21?style=for-the-badge" />
 
 <br/><br/>
 
-**⚙️ Backend & DevOps**
+**Backend & DevOps**
 <br/>
-<img src="https://img.shields.io/badge/Node.js-e74c3c?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0d0505" />
-<img src="https://img.shields.io/badge/Prisma-e74c3c?style=for-the-badge&logo=prisma&logoColor=white&labelColor=0d0505" />
-<img src="https://img.shields.io/badge/REST_APIs-e74c3c?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0d0505" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-85EA2D?style=for-the-badge&logo=swagger&logoColor=000000" />
 <br/>
-<img src="https://img.shields.io/badge/Docker_Compose-e74c3c?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d0505" />
-<img src="https://img.shields.io/badge/K8s_Manifests-e74c3c?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0d0505" />
-<img src="https://img.shields.io/badge/Helm_Charts-e74c3c?style=for-the-badge&logo=helm&logoColor=white&labelColor=0d0505" />
+<img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/K8s_Manifests-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Helm_Charts-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
 <br/>
-<img src="https://img.shields.io/badge/Terraform_IaC-e74c3c?style=for-the-badge&logo=terraform&logoColor=white&labelColor=0d0505" />
-<img src="https://img.shields.io/badge/CI%2FCD_Pipelines-e74c3c?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0d0505" />
-<img src="https://img.shields.io/badge/AWS_ECR%2FECS-e74c3c?style=for-the-badge&logo=amazonecs&logoColor=white&labelColor=0d0505" />
+<img src="https://img.shields.io/badge/Terraform_IaC-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/CI%2FCD_Pipelines-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS_ECR%2FECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white" />
 
 </div>
 
