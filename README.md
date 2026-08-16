@@ -204,13 +204,13 @@ Same pattern, different faces: CI/CD gatekeeping, log-anomaly triage, or a Whats
 <img src="https://github-readme-stats-fall3nwhizzy.vercel.app/api?username=ItzFaLL3n&count_private=true&show_icons=true&hide_border=true&theme=github_dark&title_color=e74c3c&icon_color=e74c3c&text_color=7a5050&bg_color=080808&ring_color=c0392b&include_all_commits=true&card_width=440" height="165" alt="GitHub Stats"/>
 
 <img src="https://github-readme-stats-fall3nwhizzy.vercel.app/api/top-langs/?username=ItzFaLL3n&layout=compact&hide_border=true&theme=github_dark&title_color=e74c3c&text_color=7a5050&bg_color=080808&langs_count=6&card_width=440" height="165" alt="Top Languages"/>
-```
+
 <br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItzFaLL3n&hide_border=true&background=080808&stroke=1e0a0a&ring=c0392b&fire=e74c3c&currStreakLabel=e74c3c&sideLabels=4a3030&dates=2e1818&currStreakNum=f0e0e0&sideNums=c8a8a8" height="130" alt="Streak Stats"/>
 
 <br/><br/>
-```
+
 <img src="https://raw.githubusercontent.com/ItzFaLL3n/ItzFaLL3n/output/snake-dark.svg" alt="snake"/>
 
 </div>
