@@ -207,10 +207,6 @@ Same pattern, different faces: CI/CD gatekeeping, log-anomaly triage, or a Whats
 
 <br/><br/>
 
-
-
-<br/><br/>
-
 <img src="https://raw.githubusercontent.com/ItzFaLL3n/ItzFaLL3n/output/snake-dark.svg" alt="snake"/>
 
 </div>
